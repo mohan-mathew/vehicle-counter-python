@@ -1,6 +1,7 @@
 # Vehicle Counter Using Open-Cv 
 A vehicle counting system, as you might have already inferred, is a system that counts vehicles on the road. Why would you want to build one? Why would you want to count vehicles on the road? Here are some reasons: 
 [vehicle](https://opensourcelibs.com/lib/multitarget-tracker)
+<img src="https://opensourcelibs.com/lib/multitarget-tracker" alt="My cool logo"/>
 *Traffic management and planning 
 
 *Traffic control 
