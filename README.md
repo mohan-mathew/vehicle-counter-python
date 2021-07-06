@@ -10,7 +10,7 @@ A vehicle counting system, as you might have already inferred, is a system that 
 *Parking management 
 
 *Advertising 
-1_UctRAiOt_tyXOJd4aX1rZg.png
+
 ## Computer Vision Based Approach
 Computer vision is concerned with the automatic extraction, analysis and understanding of useful information from a single image or a sequence of images. It involves the development of a theoretical and algorithmic basis to achieve automatic visual understanding. Vehicle detection and counting systems plays a major role in an intelligent transportation system, especially for traffic management system. Computer vision has also been applied for solving traffic and transportation problems. [There are multiple techniques to solve this problem. You can train a deep learning model for object detection or you can pick a pre-trained model and fine-tune it on your data. However, these are supervised learning approaches and they require labeled data to train the object detection model. Here we are going to use the unsupervised way of object detection in videos, i.e., is object detection without using any labeled data.] 
 <img src="https://github.com/mohan-mathew/vehicle-counter-python/blob/main/0_iNYtQubKAtK0OGG5.png" alt="My cool logo"/>
