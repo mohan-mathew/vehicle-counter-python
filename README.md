@@ -1,7 +1,7 @@
 # Vehicle Counter Using Open-Cv 
 <img src="https://github.com/mohan-mathew/vehicle-counter-python/blob/main/1_UctRAiOt_tyXOJd4aX1rZg.png" alt="My cool logo"/>
 A vehicle counting system, as you might have already inferred, is a system that counts vehicles on the road. Why would you want to build one? Why would you want to count vehicles on the road? Here are some reasons: 
-[vehicle](https://opensourcelibs.com/lib/multitarget-tracker)
+
 
 *Traffic management and planning 
 
